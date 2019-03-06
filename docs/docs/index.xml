@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Q-As about Machine Learning</title>
+    <link>https://xzyaoi.github.io/qaml/docs/</link>
+    <description>Recent content in Docs on Q-As about Machine Learning</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://xzyaoi.github.io/qaml/docs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://xzyaoi.github.io/qaml/docs/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xzyaoi.github.io/qaml/docs/chapter-1/</guid>
+      <description>Chapter I Mathematics Fundamentals In this chapter, we will discuss some basic mathematics knowledge that you need to know for further study.
+What are the relations between scalar, vector, matrix, and tensor? A vector is an ordered finite list of numbers. Vectors are usually written as vertical arrays, surrounded by square or curved brackets, as seen below.
+$$\begin{pmatrix}-1.1 \\ 0.0 \\ 3.6 \\ -7.2 \end{pmatrix} or \begin{bmatrix}-1.1 \\ 0.0 \\ 3.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xzyaoi.github.io/qaml/docs/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xzyaoi.github.io/qaml/docs/chapter-2/</guid>
+      <description>Chapter II Machine Learning Fundamentals In this chapter, we will discuss some basic knowledge about machine learning
+What is regression? What is classification? What is supervised learning? What is semi-supervised learning? What is weakly-supervised learning? What is unsupervised learning? What are the steps for a supervised learning? What is multi instance learning? What is K-Nearest-Neighbor or KNN? What is SVM? What is neural network? What are the types of difference neural networks?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xzyaoi.github.io/qaml/docs/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xzyaoi.github.io/qaml/docs/chapter-3/</guid>
+      <description>Chapter III Fundamentals of Deep Learning What is neural network? What is perception machine? What is multi-layer perception machine, a.k.a MLP? What are the common used neural networks? For more information, please visit asimov institute
+There are so many deep learning frameworks, which one should I choose? Why we need deep neural networks? What is it? Why it is so hard to train a deep neural network? What are the differences between machine learning and deep learning?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xzyaoi.github.io/qaml/docs/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xzyaoi.github.io/qaml/docs/chapter-4/</guid>
+      <description>Chapter V Convolutional Neural Network What is Convolutional Neural Network? a.k.a CNN? What are the main components of CNN? A. Input, Conv, Activation, Pooling and Fully Connected Layer.
+What is convolution? What are the main parameters in the convolution layer? What are the different types of convolution layer? What are the differences between 2D and 3D convolution? What is pooling? What are the methods for pooling? A. There are a few methods.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://xzyaoi.github.io/qaml/docs/chapter-5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://xzyaoi.github.io/qaml/docs/chapter-5/</guid>
+      <description>Boosting What is AdaBoost? A. AdaBoost is the abbreviation of Adaptive Boosting. It is proposed by Yoav Freund and Robert Schapire in 1995. As it focuses on the classification problem, so we use this as an example. The AdaBoost method is a classifier consists of many weak classifier, and it aims to convert and combine these weak classifiers into a strong classifier and use this strong classifier to solve the classification problem.</description>
+    </item>
+    
+  </channel>
+</rss>
