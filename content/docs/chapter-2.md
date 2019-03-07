@@ -4,6 +4,10 @@ In this chapter, we will discuss some *basic knowledge about machine learning*
 
 ###  What is regression? What is classification?
 
+Regression is about predicting a label and classification is about predicting a quantity. In other word, the result of regression are continous quantities while the result of classification are discrete class labels.
+
+For example, if 
+
 ###  What is supervised learning? What is semi-supervised learning? What is weakly-supervised learning? What is unsupervised learning?
 
 ###  What are the steps for a supervised learning?
