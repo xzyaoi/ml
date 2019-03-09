@@ -2,13 +2,21 @@
 
 In this chapter, we will discuss some *basic knowledge about machine learning*
 
+###  What is supervised learning? What is semi-supervised learning? What is weakly-supervised learning? What is unsupervised learning?
+
+Supervised Learning is where you have both the input and output variables, and Unsupervised Learning is where you only have the input data and no corresponding output data.
+
+In supervised learning, you use an algorithm to learn a mapping function from the input to the output: \\(Y=f(x)\\). With the mapping function, you will be able to approximately predict the output variables for new input data that do not exists in training dataset.
+
+It is called *Supervised* learning because we know the correct output of input data, and thus, our algorithms are able to correct the predictions on the training data. The process of this kind of machine learning is like a teacher supervising the process.
+
+Controversially, the goal for unsupervised learning is to learn more about the data itself, by model the structure or distribution of the data. There is no correct outputs, and therefore we are unable to correct the algorithms and predictions. In other words, algorithms are left to their own devises to discover the structure of the data.
+
 ###  What is regression? What is classification?
 
 Regression is about predicting a label and classification is about predicting a quantity. In other word, the result of regression are continous quantities while the result of classification are discrete class labels.
 
 For example, if 
-
-###  What is supervised learning? What is semi-supervised learning? What is weakly-supervised learning? What is unsupervised learning?
 
 ###  What are the steps for a supervised learning?
 
