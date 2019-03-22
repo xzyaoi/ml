@@ -6,6 +6,12 @@
 <link rel="stylesheet" href="{{ "normalize.min.css" | relURL }}">
 {{ $styles := resources.Get "book.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
 <link rel="stylesheet" href="{{ $styles.RelPermalink }}">
+<script src="https://cdn.jsdelivr.net/gh/aruminant/tinyq@v1.0.1/dist/tinyquoter.min.js"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function(event) {
+        window.TinyQ.init();
+    });
+</script>
 
 {{ "<!--" | safeHTML }}
 Made with Book Theme

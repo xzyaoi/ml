@@ -6,7 +6,11 @@ When we are talking about neural networks, we are actually talking about artific
 
 ![example of neural networks](https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Colored_neural_network.svg/600px-Colored_neural_network.svg.png)
 
-### What is perception machine? What is multi-layer perception machine, a.k.a MLP?
+### What is perceptron? What is multi-layer perception machine, a.k.a MLP?
+
+Perceptron is a kind of linear classifier for two classes. The input of the Perceptron is a 
+
+### What is linear separable dataset?
 
 
 
