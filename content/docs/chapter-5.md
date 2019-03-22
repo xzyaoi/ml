@@ -2,7 +2,7 @@
 
 ### What is AdaBoost?
 
-*A.* AdaBoost is the abbreviation of *Adaptive Boosting*. It is proposed by *Yoav Freund* and *Robert Schapire* in 1995. As it focuses on the classification problem, so we use this as an example. The AdaBoost method is a classifier consists of many *weak classifier*, and it aims to convert and combine these weak classifiers into a *strong classifier* and use this strong classifier to solve the classification problem. This process can be denoted as:
+AdaBoost is the abbreviation of *Adaptive Boosting*. It is proposed by *Yoav Freund* and *Robert Schapire* in 1995. As it focuses on the classification problem, so we use this as an example. The AdaBoost method is a classifier consists of many *weak classifier*, and it aims to convert and combine these weak classifiers into a *strong classifier* and use this strong classifier to solve the classification problem. This process can be denoted as:
 
 $$ F(x)=\sum_{i=1}^n w _i f _i (x) $$
 
@@ -24,10 +24,10 @@ It is adaptive because it can adapt to wrongly classified objects, and the adapt
 
 ### What is GDBT (a.k.a Gradient Boosting Decision Tree)?
 
-*A.* GDBT is a *Decision Tree* trained by Gradient Boosting.
+GDBT is a *Decision Tree* trained by Gradient Boosting.
 
 ### What is Gradient Boosting?
 
-*A.*  Gradient Boosting is a machine learning algorithm that can be used to handle multiple tasks, including regression, classification, ranking and etc.
+Gradient Boosting is a machine learning algorithm that can be used to handle multiple tasks, including regression, classification, ranking and etc.
 
 As in its name, gradient boosting is the combination of gradient descent and boosting. 
