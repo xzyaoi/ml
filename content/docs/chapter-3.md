@@ -40,7 +40,7 @@ For more information, please visit [asimov institute](http://www.asimovinstitute
 
 ### What are the commonly used activation functions?
 
-*A.* sigmoid, tanh, Relu, Leaky Relu, softplus and softmax are some commonly used activation functions.
+sigmoid, tanh, Relu, Leaky Relu, softplus and softmax are some commonly used activation functions.
 
 ### What is the derivatives of those activation functions?
 

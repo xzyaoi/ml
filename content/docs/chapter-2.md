@@ -2,6 +2,10 @@
 
 In this chapter, we will discuss some *basic knowledge about machine learning*
 
+### What is Machine Learning?
+
+
+
 ###  What is supervised learning? What is semi-supervised learning? What is weakly-supervised learning? What is unsupervised learning?
 
 Supervised Learning is where you have both the input and output variables, and Unsupervised Learning is where you only have the input data and no corresponding output data.
@@ -14,11 +18,43 @@ Controversially, the goal for unsupervised learning is to learn more about the d
 
 ###  What is regression? What is classification?
 
-Regression is about predicting a label and classification is about predicting a quantity. In other word, the result of regression are continous quantities while the result of classification are discrete class labels.
+Regression and Classification are categorized under the supervised learning, in other word, both of them are a specific task of supervised learning.
 
-For example, if 
+Regression is about predicting a label and classification is about predicting a quantity. In other word, the result of regression are continuous quantities while the result of classification are discrete class labels.
+
+Let's take an example about the housing. There are two different algorithms, one is for predicting the type of house and another is for estimating the prices. According to our definition above, the former algorithm is predicting a discrete class (the type of house) and the latter is predicting a continuous number or quantity (the price of house). Therefore, the former is classification while the latter is regression.
+
+### What is clustering? What is association?
+
+Clustering, as its name shows, is grouping a set of objects in such a manner that objects in the same group are more similar than to those objects belonging to other groups.
+
+Association rule learning is about finding associations and relations amongst items within large databases. It is intended to identify strong rules discovered in databases using some measures of interestingness. The ultimate goal is to help a machine mimic the human brain's feature extraction and abstract association (which we will explain later for these terms) capabilities from new un-categorized data.
+
+Clustering is about grouping data points according to their similarities while association is about discovering some relationships between the attributes of those data points.
+
+### What is the relation between machine learning, supervised learning/unsupervised learning and regression/classification?
+
+As seen below:
+
+![Relations Between Machine Learning and etc.](http://i66.tinypic.com/55jzvp.jpg)
 
 ###  What are the steps for a supervised learning?
+
+For supervised learning, there are some general steps to solve the given problem.
+
+* Determine the type of training data. Before doing anything else, you need to decide what kind of data is to be used as a training set. 
+
+* Prepare the training set, validation set and test set.
+
+* Determine the input feature representation of the learned function.
+
+* Determine the structure of the learned function and corresponding learning algorithm.
+
+* Complete the design.
+
+* Evaluate the accuracy of the learned function.
+
+###  What is the learned function 
 
 ###  What is multi instance learning?
 
@@ -44,7 +80,7 @@ For example, if
 
 ###  What are the differences between linear regression and logistic regression?
 
-A: Linear Regression: \\(f(x)=\theta ^{T}x=\theta _{1}x _{1}+\theta _{2}x _{2}+...+\theta _{n}x _{n}\\)
+Linear Regression: \\(f(x)=\theta ^{T}x=\theta _{1}x _{1}+\theta _{2}x _{2}+...+\theta _{n}x _{n}\\)
 
 Logistic Regression: \\(f(x)=P(y=1|x;\theta )=g(\theta ^{T}x)\\)，where，\\(g(z)=\frac{1}{1+e^{-z}}\\)
 
@@ -105,5 +141,3 @@ Logistic Regression: \\(f(x)=P(y=1|x;\theta )=g(\theta ^{T}x)\\)，where，\\(g(
 ###  What is the purpose of cross validation?
 
 ###  What is k-fold cross validation?
-
-###  
