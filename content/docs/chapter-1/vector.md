@@ -70,8 +70,6 @@ $ L_2(v) = ||v||_2 $, and
 
 $ L_2(v) =   \sqrt{a_1^2 + a_2^2 + ... + a_n^2} $
 
-*Ln-norm*: 
-
 ###  What is the positive definite matrix?
 
 ###  How to judge if a matrix is the positive definite matrix?
