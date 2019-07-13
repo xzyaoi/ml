@@ -5,12 +5,11 @@
   - [Probability](content/docs/chapter-1/probability.md)
 
 - Machine Learning Fundamentals
-  - [Install Packages](guide/cvpm/install-packages.md)
+  - [Basic](content/docs/chapter-2/basic.md)
+  - [Boosting](content/docs/chapter-2/boosting.md)
 
-- Fundamentals of Deep Learning
+- Deep Learning Fundamentals
 
-  - [Code of Conduct](guide/contribution/code-of-conduct.md)
+  - [Basic](content/docs/chapter-3/basic.md)
 
 - Convolutional Neural Network
-
-- Boosting

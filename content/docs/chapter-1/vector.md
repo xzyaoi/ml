@@ -48,27 +48,47 @@ For example, If you are going to multiply the following:
 
 $$\begin{bmatrix}1, 2 \\\ 0.0, 1 \\\ 3.6, 3 \\\ -7.2,2 \end{bmatrix}$$ and $$\begin{bmatrix}-1.1 \\\ 0.0 \\\ 3.6 \\\ -7.2 \end{bmatrix}$$
 
-### Norm.
+## Norm.
 
-Norm is a measure of its magnitude or length.
+Norm is a measure of its magnitude or length. We say a vector is large if its norm is a large number, and we say it is small if its norm is a small number.
 
 In mathematics, a norm is ***a function that assigns a strictly positive length or size to each vector in a vector space***. There are many different types of norms for a vector or a matrix. For example,
 
-*L1-norm*: $L_1$ norm is also called the taxicab norm or the manhattan norm. This is because it uses manhattan distance as the length.
+*L1-norm*: $L_1$ norm is also called the taxicab norm or the manhattan norm. This is because it uses manhattan distance as the length. It is also known as one-norm, mean norm or $\ell_1$ norm.
 
 $ L_1(v) = ||v||_1 $, and
 
 $ L_1(v) = |a_1| + |a_2| + ... + |a_n| $
 
-For example, the $L_1$ form of vector $[1,2,3]$ is:
+For example, the $L_1$ norm of vector $(1,2,3)$ is:
 
 $ L_1(v) = 1 + 2 + 3 = 6$
 
-*L2-norm*: $L_2$ norm is also called Euclidean norm since it uses euclidean distance.
+*L2-norm*: $L_2$ norm is also called Euclidean norm since it uses euclidean distance. It is also known as mean-square norm, least-squares norm or $\ell_2$ norm.
 
 $ L_2(v) = ||v||_2 $, and
 
 $ L_2(v) =   \sqrt{a_1^2 + a_2^2 + ... + a_n^2} $
+
+For example, the $L_2$ norm of vector $(1,2,3)$ is:
+
+$ L_2(v) = \sqrt{1^2 + 2^2 + 3^2} = 3.74..$
+
+*Max-norm*. Max-norm is defined as the maximum of the absolute values of its components. It is also known as $L_\infty$-norm, $\ell_\infty$ norm, infinity norm or uniform norm. 
+
+For example, the max norm of vector $(1,2,3)$ is:
+
+$ ||(1,2,3)||_\infty =max(|1|,|2|,|3|) = 3 $
+
+### Properties of $L_2$ Norm
+
+* Non-negative homogeneity. $||$
+
+* Triangle inequality.
+
+* Non-negativity.
+
+* Definiteness.
 
 ###  What is the positive definite matrix?
 
@@ -80,18 +100,3 @@ $ L_2(v) =   \sqrt{a_1^2 + a_2^2 + ... + a_n^2} $
 
 ###  What are the differences between singular value and eigenvalue? and what about their decomposition?
 
-###  What is the probability?
-
-###  What are the differences between variable and random variable?
-
-###  What are the common probability distribution?
-
-###  What is the conditional probability?
-
-###  What is joint distribution? What is marginal distribution? What are their relations?
-
-###  What is the chain rule for conditional probability?
-
-###  What is independence and conditional independence?
-
-###  What is the expectation? What is variance? What is covariance? What is the correlation coefficient?

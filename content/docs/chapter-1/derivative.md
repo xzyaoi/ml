@@ -1,4 +1,4 @@
-###  What is a derivative?
+### derivative?
 
 ###  How to calculate the derivatives?
 
