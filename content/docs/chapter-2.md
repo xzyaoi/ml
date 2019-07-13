@@ -4,8 +4,6 @@ In this chapter, we will discuss some *basic knowledge about machine learning*
 
 ### What is Machine Learning?
 
-
-
 ###  What is supervised learning? What is semi-supervised learning? What is weakly-supervised learning? What is unsupervised learning?
 
 Supervised Learning is where you have both the input and output variables, and Unsupervised Learning is where you only have the input data and no corresponding output data.

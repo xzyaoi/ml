@@ -2,7 +2,7 @@
 
 In this chapter, we will discuss some basic mathematics knowledge that you need to know for further study.
 
-### What are the relations between scalar, vector, matrix, and tensor?
+## Scalar, vector, matrix, and tensor.
 
 A *vector* is an ordered finite list of numbers. Vectors are usually written as vertical arrays, surrounded by square or curved brackets, as seen below.
 
@@ -30,7 +30,7 @@ With a vector, we could know both the length and direction of a rod.
 
 With a tensor, we may be able to know both the length and direction of a rod, and we could even know more about the rod. (for example, the degree of deflection)
 
-### What are the differences between tensor and matrix?
+### Relations between tensor and matrix.
 
 From the aspect of algebra, the matrix is a generation of the vector, the matrix is a 2-dimensional table. \\(n\\)-dimensional is a so-called \\(n\\)-dimensional table. Noted that this is not a strict definition of the tensor. 
 
@@ -48,29 +48,33 @@ For example, If you are going to multiply the following:
 
 $$\begin{bmatrix}1, 2 \\\ 0.0, 1 \\\ 3.6, 3 \\\ -7.2,2 \end{bmatrix}$$ and $$\begin{bmatrix}-1.1 \\\ 0.0 \\\ 3.6 \\\ -7.2 \end{bmatrix}$$
 
-### What is the norm?
+### Norm.
+
+Norm is a measure of its magnitude or length.
 
 In mathematics, a norm is ***a function that assigns a strictly positive length or size to each vector in a vector space***. There are many different types of norms for a vector or a matrix. For example,
 
-*L1-norm*: also known as least absolute deviations (LAD), and least absolute errors (LAE). It is minimizing the sum of the absolute differences between the target value (i.e ground truth) and the estimated value.
+*L1-norm*: $L_1$ norm is also called the taxicab norm or the manhattan norm. This is because it uses manhattan distance as the length.
 
-$$ S = \sum_{i=1}^N |y_i - f(x_i)| $$
+$ L_1(v) = ||v||_1 $, and
 
-### What are the norms of matrix and vector?
+$ L_1(v) = |a_1| + |a_2| + ... + |a_n| $
 
-We define a vector as \\(\vec{x}=(x_1,x_2,...,x_N)\\). Its norm will be:
+For example, the $L_1$ form of vector $[1,2,3]$ is:
 
+$ L_1(v) = 1 + 2 + 3 = 6$
 
+*L2-norm*: $L_2$ norm is also called Euclidean norm since it uses euclidean distance.
+
+$ L_2(v) = ||v||_2 $, and
+
+$ L_2(v) =   \sqrt{a_1^2 + a_2^2 + ... + a_n^2} $
+
+*Ln-norm*: 
 
 ###  What is the positive definite matrix?
 
 ###  How to judge if a matrix is the positive definite matrix?
-
-###  What is a derivative?
-
-###  How to calculate the derivatives?
-
-###  What are the differences between derivatives and partial derivatives?
 
 ###  What is eigenvalue? What is eigenvector? What is eigenvalue decomposition?
 
