@@ -8,8 +8,6 @@ This book is actually my booknote when I was learning machine learning. I decide
 
 Author: [Xiaozhe Yao](https://xzyaoi.github.io/)
 
-Original Chinese Version: 
-
 ## Reference
 
 * [Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares by Stephen Boyd and Lieven Vandenberghe](http://vmls-book.stanford.edu/vmls.pdf)
