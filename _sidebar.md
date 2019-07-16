@@ -5,11 +5,15 @@
   - [Probability](content/docs/chapter-1/probability.md)
 
 - Machine Learning Fundamentals
-  - [Basic](content/docs/chapter-2/basic.md)
+  - [Overview](content/docs/chapter-2/basic.md)
   - [Boosting](content/docs/chapter-2/boosting.md)
 
 - Deep Learning Fundamentals
 
-  - [Basic](content/docs/chapter-3/basic.md)
+  - [Overview](content/docs/chapter-3/basic.md)
 
 - Convolutional Neural Network
+
+- Automated Machine Learning
+
+  - [Overview](content/docs/chapter-5/basic.md)

@@ -8,7 +8,7 @@ When we are talking about neural networks, we are actually talking about artific
 
 ### What is perceptron? What is multi-layer perception machine, a.k.a MLP?
 
-Perceptron is a kind of linear classifier for two classes. The input of the Perceptron is a 
+Perceptron is a kind of linear classifier  for two classes. The input of the Perceptron is a 
 
 ### What is linear separable dataset?
 

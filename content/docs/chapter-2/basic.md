@@ -2,7 +2,9 @@
 
 In this chapter, we will discuss some *basic knowledge about machine learning*
 
-### What is Machine Learning?
+## Introduction of Machine Learning
+
+
 
 ###  What is supervised learning? What is semi-supervised learning? What is weakly-supervised learning? What is unsupervised learning?
 
@@ -14,7 +16,7 @@ It is called *Supervised* learning because we know the correct output of input d
 
 Controversially, the goal for unsupervised learning is to learn more about the data itself, by model the structure or distribution of the data. There is no correct outputs, and therefore we are unable to correct the algorithms and predictions. In other words, algorithms are left to their own devises to discover the structure of the data.
 
-###  What is regression? What is classification?
+##  What is regression? What is classification?
 
 Regression and Classification are categorized under the supervised learning, in other word, both of them are a specific task of supervised learning.
 
