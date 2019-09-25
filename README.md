@@ -1,23 +1,30 @@
-## Road to Machine Learning
+# Preface
 
-## About
+## Machine Learning Survival Guide
 
-This book is actually my booknote when I was learning machine learning. I decided to organize them in a more proper way for my own interest.
+### About
 
-## Credit
+This book is initially my learning note for machine learning. Later on I decided to re-organize it into a free e-book so that many of you may benefit from it.
+
+### Credit
 
 Author: [Xiaozhe Yao](https://xzyaoi.github.io/)
 
-## Reference
+Some of the content comes from the following courses:
+
+* [Reliable and Interpretable Artificial Intelligence at ETH Zurich](https://www.sri.inf.ethz.ch/teaching/riai2019) by Prof. Dr. Martin Vechev. 
+* [Linear Algebra](https://www.math.uzh.ch/index.php?id=ve_vo_det&key2=3672&keySemId=39&L=1) by Prof. Dr. Stefan Sauter  & [Analysis](https://www.math.uzh.ch/index.php?id=ve_vo_det&key2=3680&keySemId=39&L=1) by Prof. Dr. Rémi Abgrall at the University of Zurich.
+* Pattern Recognition at Shenzhen University by Prof. Dr. [Shiqi Yu](https://yushiqi.cn).
+
+### Reference
 
 * [Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares by Stephen Boyd and Lieven Vandenberghe](http://vmls-book.stanford.edu/vmls.pdf)
-
+* Deep Learning by [Yoshua Bengio](https://mila.quebec/en/yoshua-bengio/)
 * [Deep Learning-500-Questions](https://github.com/scutan90/DeepLearning-500-questions)
 
-There are many different resources that contribute to the contents.
+There are many other different resources \(websites, papers, softwares\) that contribute to the contents, and I will try to cite them individually when it is mentioned. But sometimes, I may forget to. In that case, Please contact me and I will fix it as soon as possible.
 
-## Contribution
+### Privacy
 
-If you are interested in the content. You are welcome to edit it and issue a PR.
+I use Google Analytics to see how many visitors are there every month.
 
-If there is any problems in the answers part, or you want to ask questions, you are welcome to [issue a Pull Request](https://github.com/xzyaoi/qaml/issues/new)
