@@ -4,7 +4,7 @@
 
 ### About
 
-This book is initially my learning note for machine learning. Later on I decided to re-organize it into a free e-book so that many of you may benefit from it.
+This book is initially my learning note for machine learning. Later on I decided to re-organize it into a free e-book so that many of you may benefit from it. Note that I will try to contact professors and experts to help me keep this right, clear and easy to understand, there may still be something wrong, unclear and difficult to read \(such as its formulas, tables etc.\). In that case, to help me better organize the problems and learn from you, please [file a issue here](https://github.com/xzyaoi/ml).
 
 ### Credit
 
