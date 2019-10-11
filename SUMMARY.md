@@ -31,6 +31,7 @@
 
 ## Promising Areas
 
+* [Robust A.I.](promising-areas/robust-a.i..md)
 * [Auto ML](promising-areas/auto-ml.md)
 * [Interpretable ML](promising-areas/interpretable-ml.md)
 
